@@ -1,4 +1,4 @@
-# AssignmantNLP
+AssignmentNLP
 The task at hand is to divide a text input into "medical" and "non-medical" classifications. In this case, I used Python libraries like:
 • Requests: This Python module is used to send HTTP requests to the Wikipedia API.
 • NLTK = for text preprocessing 
